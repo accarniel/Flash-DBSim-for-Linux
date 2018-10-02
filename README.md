@@ -17,5 +17,5 @@ TO-DO
 
 # Developers
 
-[Anderson Chaves Carniel](https://accarniel.github.io/)
-[Tamires Brito da Silva](https://github.com/tamiresbrito)
+* [Anderson Chaves Carniel](https://accarniel.github.io/)
+* [Tamires Brito da Silva](https://github.com/tamiresbrito)
