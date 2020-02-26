@@ -1,4 +1,4 @@
-# To cite Flash-DBSim
+# To cite Flash-DBSim for Linux
 
 Please mention the following article to cite the Flash-DBSim for Linux:
 
