@@ -3,6 +3,8 @@ BIN=./bin/*
 LIBRARY_PATH=../SO
 LIBRARY_BIN=../SO/bin/*
 
+$(shell mkdir -p bin)
+
 all: FlashDBSim_capi
 	@g++ -shared $(BIN) -o libflashdb_capi.so $(LIBRARY_BIN) -L$(LIBRARY_PATH) -lflashdb
 

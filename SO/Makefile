@@ -1,6 +1,8 @@
 INCLUDES=./include
 BIN=./bin/*
 
+$(shell mkdir -p bin)
+
 all: NandDevice01 NandDevice02 NandDevice03 NandDevice04 FTL01 stdafx FlashDBSim FlashDBSimSO
 	@g++ -shared -o libflashdb.so $(BIN)
 	
