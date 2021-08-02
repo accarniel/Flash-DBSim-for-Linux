@@ -9,6 +9,8 @@ Please mention the applicability of the Flash-DBSim for Linux by citing one of t
 * [Carniel, A. C.; Silva, T. B.; Bonicenha, K. L. S.; Ciferri, R. R.; Ciferri, C. D. A. Analyzing the Performance of Spatial Indices on Flash Memories using a Flash Simulator. In Proceedings of the 32nd Brazilian Symposium on Databases (SBBD), p. 40-51, 2017.](http://www.lbd.dcc.ufmg.br/colecoes/sbbd/2017/003.pdf)
 * [Carniel, A. C.; Silva, T. B.; Ciferri, C. D. A. Understanding the Applicability of Flash Simulators on the Experimental Evaluation of Spatial Indices. In 9th Annual Non-volatile Memories Workshop (NVMW), p. 1-2, 2018.](https://www.researchgate.net/publication/327424917_Understanding_the_Applicability_of_Flash_Simulators_on_the_Experimental_Evaluation_of_Spatial_Indices)
 
+This project has been integrated to [FESTIval](https://accarniel.github.io/FESTIval/) - a PostgreSQL extension to conduct experimental evaluations of spatial index structures in PostgreSQL. Therefore, if you have any issues, please create the issue in the FESTIval's Github repository.
+
 # Overview
 
 Flash-DBSim for Linux ports the flash simulator [Flash-DBSim](http://kdelab.ustc.edu.cn/flash-dbsim/index_en.html), originally implemented for Windows, to be used in Linux based systems.
